@@ -1,5 +1,5 @@
 public class Good1 {
-    public static void main(String[] args) {
-        System.out.println("Привет");
+    public int removeElement(int[] nums, int val) {
+
     }
 }
